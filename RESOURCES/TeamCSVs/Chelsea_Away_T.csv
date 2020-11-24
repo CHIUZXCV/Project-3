@@ -1,0 +1,19 @@
+Date,HomeTeam,AwayTeam,FT_HomeGoals,FT_AwayGoals,FT_Result,HT_HomeGoals,HT_AwayGoals,HT_Result,HomeShotsonTarget,AwayShotsonTarget,HomeFouls,AwayFouls,HomeYellowCards,AwayYellowCards,HomeRedCards,AwayRedCards,Bet365_HomeWin_Odds,Bet365_Draw_Odds,Bet365_AwayWin_Odds,WilliamHill_HomeWin_Odds,WilliamHill_HomeDraw_Odds,WilliamHill_AwayWin_Odds,Result
+8/24/2019,Norwich,Chelsea,4,0,H,1,0,H,5,7,15,13,3,4,0,0,4.33,3.75,1.8,4.2,3.9,1.8,0
+9/14/2019,Wolves,Chelsea,2,3,A,2,2,D,5,8,9,9,1,1,0,0,2.9,3.3,2.5,3,3.3,2.4,0
+10/6/2019,Southampton,Chelsea,2,5,A,0,3,A,4,6,8,11,1,2,0,0,4,3.8,1.85,4,3.8,1.85,0
+10/26/2019,Burnley,Chelsea,1,4,A,1,3,A,3,7,8,15,0,1,0,0,4.5,4,1.72,4.6,4,1.73,0
+11/2/2019,Watford,Chelsea,2,4,A,0,2,A,5,7,7,8,3,2,0,0,5,4.33,1.61,5,4.2,1.63,0
+11/23/2019,Man City,Chelsea,1,2,A,0,1,A,3,10,8,5,4,2,0,0,1.44,5,6.5,1.42,5,7,1
+12/7/2019,Everton,Chelsea,2,1,H,2,1,H,4,2,5,9,1,1,0,0,3.5,3.75,2,3.5,3.75,2,1
+12/22/2019,Tottenham,Chelsea,3,1,H,1,0,H,7,4,14,9,3,0,0,0,2.37,3.75,2.75,2.35,3.6,2.88,0
+12/29/2019,Arsenal,Chelsea,0,2,A,0,2,A,1,3,9,11,4,3,1,0,2.87,3.75,2.3,2.8,3.7,2.35,0
+1/1/2020,Brighton,Chelsea,1,2,A,1,0,H,2,4,13,19,5,4,0,0,3.6,3.6,1.95,3.7,3.6,2,0
+1/18/2020,Newcastle,Chelsea,1,1,D,0,1,A,5,5,8,15,2,3,0,0,6,4.5,1.5,6,4.5,1.52,1
+2/1/2020,Leicester,Chelsea,1,0,H,0,0,D,2,4,9,14,1,1,0,0,2.5,3.6,2.7,2.5,3.6,2.7,0
+2/29/2020,Bournemouth,Chelsea,2,2,D,0,0,D,4,3,16,14,2,2,0,0,4.75,3.8,1.72,4.6,3.7,1.78,0
+6/21/2020,Aston Villa,Chelsea,2,2,D,0,1,A,5,6,8,5,2,2,0,0,6,4.5,1.5,6,4.6,1.5,0
+7/1/2020,West Ham,Chelsea,1,2,A,1,0,H,4,5,9,17,2,1,0,0,5.5,4.33,1.57,5.8,4.2,1.57,1
+7/7/2020,Crystal Palace,Chelsea,3,2,H,1,1,D,4,6,10,9,2,1,0,0,8.5,4.5,1.4,8.5,4.5,1.4,0
+7/11/2020,Sheffield United,Chelsea,2,3,A,1,2,A,4,6,11,10,1,0,0,0,6,3.8,1.6,6.5,3.9,1.57,1
+7/22/2020,Liverpool,Chelsea,3,0,H,2,0,H,4,4,8,6,1,0,0,0,2,3.75,3.5,2.05,3.7,3.4,1
