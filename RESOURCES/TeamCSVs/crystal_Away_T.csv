@@ -1,0 +1,19 @@
+Date,HomeTeam,AwayTeam,FT_HomeGoals,FT_AwayGoals,FT_Result,HT_HomeGoals,HT_AwayGoals,HT_Result,HomeShotsonTarget,AwayShotsonTarget,HomeFouls,AwayFouls,HomeYellowCards,AwayYellowCards,HomeRedCards,AwayRedCards,Bet365_HomeWin_Odds,Bet365_Draw_Odds,Bet365_AwayWin_Odds,WilliamHill_HomeWin_Odds,WilliamHill_HomeDraw_Odds,WilliamHill_AwayWin_Odds,Result
+8/24/2019,Man United,Crystal Palace,1,0,H,0,0,D,3,4,16,11,3,1,0,0,1.33,5.25,9,1.33,5,10,0
+9/14/2019,Tottenham,Crystal Palace,1,2,A,0,1,A,3,3,8,18,2,4,0,0,1.36,5.25,8,1.38,4.8,8.5,1
+10/5/2019,West Ham,Crystal Palace,4,0,H,4,0,H,5,6,19,11,4,2,0,0,1.95,3.6,3.8,1.95,3.6,3.8,0
+10/27/2019,Arsenal,Crystal Palace,1,2,A,0,0,D,4,4,11,7,3,2,0,0,1.45,4.75,6.5,1.47,4.6,6.5,0
+11/9/2019,Chelsea,Crystal Palace,2,2,D,2,1,H,6,4,18,9,2,0,0,0,1.33,5,10,1.32,5.25,9.5,1
+11/30/2019,Burnley,Crystal Palace,2,0,H,0,0,D,5,1,9,17,3,2,0,0,2.25,3.25,3.3,2.3,3.2,3.3,0
+12/7/2019,Watford,Crystal Palace,0,2,A,0,1,A,4,2,13,10,2,0,0,0,2.37,3.3,3.1,2.35,3.3,3.1,0
+12/21/2019,Newcastle,Crystal Palace,0,0,D,0,0,D,3,0,15,16,4,2,0,0,2.37,3.1,3.25,2.45,3,3.25,1
+12/28/2019,Southampton,Crystal Palace,1,0,H,0,0,D,3,4,12,11,2,0,0,0,1.95,3.6,3.8,1.95,3.5,4,0
+1/1/2020,Norwich,Crystal Palace,1,1,D,0,0,D,5,2,13,7,1,2,0,0,2.5,3.4,2.75,2.55,3.4,2.75,0
+1/18/2020,Man City,Crystal Palace,1,1,D,1,0,H,4,3,12,9,5,0,0,0,1.1,11,19,1.08,11,29,0
+2/8/2020,Everton,Crystal Palace,2,2,D,0,1,A,6,3,9,7,1,2,0,0,1.61,3.8,6,1.63,3.7,6,1
+2/29/2020,Brighton,Crystal Palace,3,1,H,1,0,H,8,2,11,12,0,1,0,0,2.05,3.25,3.9,2.05,3.25,3.9,0
+6/20/2020,Bournemouth,Crystal Palace,0,1,A,0,0,D,8,3,8,9,1,1,0,0,2.45,3.2,3,2.5,3.2,3,0
+6/24/2020,Liverpool,Crystal Palace,0,2,A,0,2,A,1,2,13,15,3,2,0,0,1.22,6.5,13,1.22,6,15,1
+7/4/2020,Leicester,Crystal Palace,4,0,H,2,0,H,7,0,7,5,0,0,0,0,1.66,3.6,5.75,1.65,3.6,6,1
+7/12/2020,Aston Villa,Crystal Palace,3,0,H,0,0,D,4,1,18,8,2,1,0,0,2.25,3.3,3.3,2.25,3.3,3.3,1
+7/20/2020,Wolves,Crystal Palace,2,0,H,1,0,H,9,5,21,21,2,4,0,1,1.5,4,7.5,1.47,4,8,1
