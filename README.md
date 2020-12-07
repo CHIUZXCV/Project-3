@@ -30,8 +30,9 @@ All features are used to assess strength of home and away teams, in an effort to
 ### Logistic Regression Model
 We selected a Logistic Regression model due to the clarity of the results. We will build, train and evaluate the model to predict team performance using historical data from the league itself. We were able to source comprehensive league data for all previous seasons in csv format. We used data from 2015 to 2018 as training data and data from 2019 season as testing data. Our model was designed to find the outcome of any given match. Results were assigned a "-1", "0" and "1" which represent loss, draw or win. Betting in English premier league matches is generally split in to “Win” or “Did not win” for the favored team, negating draws as an important factor. We tested the model using the 2019 data.
 
-### Data discrepencies
-We have noticed some discrepancies in the datasets due to the fact that every season 3 teams are relegated and 3 other teams are promoted. Also, some teams remain out of the Premier League in lower divisions for extended periods, making it difficult to get enough data for such teams. As a solution, we filled in NaNs where data didn't exist and dropped the NaNs later. There were additional issues with data presented by the API in that there were seasons that had been ordered in reverse chronological order, and others in chronological order at random.
+### Data Discrepencies
+- We initially struggled with relegation and promotion, but with the inclusion of the API, the data is pulled weekly, diminishing the effect this has on our model's predicitions.
+- The data pulled was occasionally ordered in reverse chronological order, requiring extra data cleaning. There did not seem to be any pattern as to when the data would be ordered incorrectly, requiring regular checking of the API requests.
 
 ### Notebooks
 We run one master notebook, and started with the data cleaning process to get clean data presented in .JSON form by the API. We created training and testing dataframes, using data from 2015 to 2018 for training and data from 2019 for testing. The API is up to date with current fixture results and statistics, making the model adaptable and servicable for all major soccer leagues. 
