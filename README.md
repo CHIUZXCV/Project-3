@@ -3,20 +3,34 @@
 Our motivation in this project is to predict the results of the English premier league (EPL) fixtures with machine learning to guide a potential betting model. Once the model is up and running we will use it to predict the fixtures of any other league by changing league and team ids. A machine learning model is used in an attempt to accurately predict the outcome of a match. The core idea is to create a model that would predict the winner of any given match at a higher success rate than betting odds-makers were currently achieving.
 
 ### Features
-We will use an API, utilize season year and league id to request data from v3.football.api-sports.io. We got such features as 
+We will use an API, utilize season, year, and league id to request data from v3.football.api-sports.io. We got such features as 
+
 shots_on_goal
+
 shots_off_goal 
+
 total_shots
+
 blocked_shots
+
 shots_insidebox 
+
 shots_outsidebox
+
 fouls
+
 cornerkicks
+
 offsides
+
 possession 
+
 yellowcards
+
 redcards 
+
 gk_saves 
+
 pass_percentage 
 
 We will use these features for home team and away team.
